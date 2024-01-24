@@ -1,0 +1,48 @@
+Last login: Wed Jan 24 22:20:33 on ttys000
+(base) gongdanei@dankdeMacBook-Pro ~ % git init
+Initialized empty Git repository in /Users/gongdanei/.git/
+(base) gongdanei@dankdeMacBook-Pro ~ % cd learngit
+(base) gongdanei@dankdeMacBook-Pro learngit % pwd
+/Users/gongdanei/learngit
+(base) gongdanei@dankdeMacBook-Pro learngit % git init
+Reinitialized existing Git repository in /Users/gongdanei/learngit/.git/
+(base) gongdanei@dankdeMacBook-Pro learngit % vim sample.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asdasdsa 
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
